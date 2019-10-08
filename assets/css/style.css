@@ -15,9 +15,44 @@
 
 
 /*-----------------------------------------------------------------------Body----------------------*/
+.bg-main {
+    background: url(../images/hand-laptop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+}
+
+.container-left {
+    background-color: #f8f1e5;
+    color: #426e86;
+    margin: 100px, 100px;
+    width: 200px;
+    float: left;
+
+
+}
+
+.container-center {
+    background-color: #f8f1e5;
+    color: #426e86;
+    margin: 100px, 100px;
+    width: 200px;
+    float: left;
 
 
 
+}
+
+.container-right {
+    background-color: #f8f1e5;
+    color: #426e86;
+    margin: 100px, 100px;
+    width: 200px;
+    float: left;
+
+
+}
 
 
 
@@ -28,3 +63,10 @@
 
 
 /*-----------------------------------------------------------------------Footer----------------------*/
+
+.bg-footer {
+    background-color: #2f3131;
+    min-height: 200px;
+    margin: 0;
+
+}
