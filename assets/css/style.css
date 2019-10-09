@@ -27,8 +27,16 @@ a {
 
 .content-container {
     background-color: #f8f1e5;
+    text-align: center;
 }
-
+ .container {
+     text-align: center;
+ }
+ .fas {
+     font-size: 100px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
 
 
 
