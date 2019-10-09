@@ -1,4 +1,10 @@
 /*-----------------------------------------------------------------------Body----------------------*/
+
+body {
+    color: #426e86;
+    font-family: 'Lato', sans-serif;
+}
+
 .content-container {
     background-color: #f8f1e5;
 }
