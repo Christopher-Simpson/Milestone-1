@@ -1,55 +1,14 @@
-/*-----------------------------------------------------------------------Header----------------------*/
-.bg-image-header {
-    background: url(../images/solutions.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 100%;
-    min-width: 100%;
-}
-
-.nav-bg-color {
-    background-color: #f9ba32;
-}
-
-
-
-
-
-
 /*-----------------------------------------------------------------------Body----------------------*/
-.bg-main {
-    background: url(../images/solutions.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 600px;
-}
-
-.container-left {
+.content-container {
     background-color: #f8f1e5;
-    color: #426e86;
-    margin: 100px, 100px;
-    float: left;
-    width: 200px;
-
 }
 
-.container-center {
-    background-color: #f8f1e5;
-    color: #426e86;
-    margin: 100px, 100px;
-    width: 200px;
-    float: left;
-}
 
-.container-right {
-    background-color: #f8f1e5;
-    color: #426e86;
-    margin: 100px, 100px;
-    width: 200px;
-    float: left;
-}
+
+
+/*-----------------------------------------------------------------------Header----------------------*/
+
+
 
 
 
@@ -60,10 +19,12 @@
 
 
 /*-----------------------------------------------------------------------Footer----------------------*/
-
-.bg-footer {
+.footer {
     background-color: #2f3131;
-    min-height: 200px;
-    margin: 0;
+    color: #426e86;
+    font-size: small;
+    margin: 30,0,30,0;
+    min-height: 100px;
+    text-align: center;
 
 }
