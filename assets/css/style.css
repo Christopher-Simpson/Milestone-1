@@ -1,6 +1,26 @@
-/*-----------------------------------------------------------------------Body----------------------*/
+/*-----------------------------------------------------------------------Colors----------------------*/
+.nav-bg-color {
+    background-color: #f9ba32e6;
+}
+
+
+.btn-secondary {
+    color: #fff;
+    background-color: #426e8600;
+    border-color: #426e8600;
+}
+
+.navbar-light .navbar-brand {
+     color: #426e86;
+    font-family: 'Lato', sans-serif;
+}
 
 body {
+    color: #426e86;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
     color: #426e86;
     font-family: 'Lato', sans-serif;
 }
