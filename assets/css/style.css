@@ -1,23 +1,8 @@
-/*-----------------------------------------------------------------------Colors----------------------*/
-.nav-bg-color {
-    background-color: #f9ba32e6;
-}
-
-
-.btn-secondary {
-    color: #fff;
-    background-color: #426e8600;
-    border-color: #426e8600;
-}
-
-.navbar-light .navbar-brand {
-     color: #426e86;
-    font-family: 'Lato', sans-serif;
-}
-
+/*-----------------------------------------------------------------------Universal----------------------*/
 body {
     color: #426e86;
     font-family: 'Lato', sans-serif;
+    overflow: hidden;
 }
 
 a {
@@ -25,6 +10,45 @@ a {
     font-family: 'Lato', sans-serif;
 }
 
+
+
+
+
+/*-----------------------------------------------------------------------Nav----------------------*/
+
+.nav-bg-color {
+    background-color: #f9ba32e6;
+}
+
+.navbar-light .navbar-brand {
+     color: #426e86;
+    font-family: 'Lato', sans-serif;
+}
+
+/*-----------------------------------------------------------------------Containers----------------------*/
+
+.landing {
+    height: 100vh;
+    background-image: url(../images/solutions.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f8f1e5;
+    position: relative;
+
+
+}
+
+.landing,h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
 .content-container {
     background-color: #f8f1e5;
     text-align: center;
@@ -32,20 +56,24 @@ a {
  .container {
      text-align: center;
  }
- .fas {
+
+
+
+
+/*-----------------------------------------------------------------------Buttons----------------------*/
+
+.fas {
      font-size: 100px;
      padding-top: 50px;
      padding-bottom: 50px;
  }
 
 
-
-/*-----------------------------------------------------------------------Header----------------------*/
-
-
-
-
-
+.btn-secondary {
+    color: #fff;
+    background-color: #426e8600;
+    border-color: #426e8600;
+}
 
 
 
