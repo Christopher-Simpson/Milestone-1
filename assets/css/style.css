@@ -116,10 +116,11 @@ body {
 }
 
 .image-sizing {
-    max-width: 300px;
-    max-height: 900px;
-    position: center;
-    float: right;
+    max-width: 45%;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-top: 15vh;
+
 }
 /*-----------------------------------------------------------------------Buttons----------------------*/
 
