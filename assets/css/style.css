@@ -84,6 +84,7 @@ body {
 
 .mini-landing {
     height: 30vh;
+
     background-image: url(../images/hand-laptop.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -98,7 +99,28 @@ body {
     position: relative;
 }
 
+.title-container {
+    height: 35vh;
+    background-image: url(../images/hand-laptop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f8f1e5;
+    position: relative;
+}
 
+.image-sizing {
+    max-width: 300px;
+    max-height: 900px;
+    position: center;
+    float: right;
+}
 /*-----------------------------------------------------------------------Buttons----------------------*/
 
 .fas {
@@ -163,6 +185,7 @@ body {
     margin: 30,0,30,0;
     min-height: 100px;
     text-align: center;
+    position: relative;
 
 }
 
