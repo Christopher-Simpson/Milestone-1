@@ -4,10 +4,24 @@ body {
     font-family: 'Lato', sans-serif;
 
 }
+h1, h2, h3, h4 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 
+/*-----------------------------------------------------------------------Grid Visual----------------------*/
+/*--.my-container {
+        border: 1px solid green;
+    }
 
+    .my-row {
+        border: 3px solid red;
+    }
 
-
+    .my-col {
+        border: 3px dotted blue;
+    }--*/
 /*-----------------------------------------------------------------------Nav----------------------*/
 
 .nav-bg-color {
@@ -75,8 +89,11 @@ body {
 }
 
 .content-container {
+
     background-color: #f8f1e5;
+
     text-align: center;
+
 }
  .container {
      text-align: center;
@@ -116,11 +133,26 @@ body {
 }
 
 .image-sizing {
-    max-width: 45%;
+
+    max-width: 55%;
     margin-right: 30px;
     margin-left: 30px;
     padding-top: 15vh;
+    padding-bottom: 15vh;
 
+}
+
+.section-spacer {
+    padding-top: 15vh;
+
+}
+
+.section-1 {
+    padding-top: 5vh;
+}
+
+.section-3 {
+    padding-bottom: 5vh;
 }
 /*-----------------------------------------------------------------------Buttons----------------------*/
 
