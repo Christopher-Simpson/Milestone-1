@@ -99,6 +99,16 @@ h1, h2, h3, h4 {
      text-align: center;
  }
 
+.media-content {
+    background-color: #c7c7c7;
+    text-align: center;
+    padding-bottom: 10vh;
+    padding-top: 5vh;
+}
+
+.player-padding {
+    padding-bottom: 10vh;
+}
 .mini-landing {
     height: 30vh;
 
@@ -186,7 +196,7 @@ h1, h2, h3, h4 {
 }
 
 .btn-primary:hover {
-    color: #f8f1e5;
+    color: #426e86;
     background-color: #f9ba32e6;
     border-color: #f9ba32e6;
 }
@@ -208,6 +218,12 @@ h1, h2, h3, h4 {
     font-weight: bold;
     text-transform: uppercase;
 
+}
+
+.pemab-landing-btn {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 /*-----------------------------------------------------------------------Footer----------------------*/
@@ -282,9 +298,9 @@ h1, h2, h3, h4 {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid #3e3e3e;
+  border: medium solid #c7c7c7;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #3e3e3e;
+  border-color: transparent transparent transparent #c7c7c7;
 }
 
 .right::before {
@@ -295,9 +311,9 @@ h1, h2, h3, h4 {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid #3e3e3e;
+  border: medium solid #c7c7c7;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #3e3e3e;
+  border-color: transparent #c7c7c7;
 }
 
 .right::after {
@@ -306,7 +322,7 @@ h1, h2, h3, h4 {
 
 .content {
   padding: 20px 30px;
-  background-color: #3e3e3e;
+  background-color: #c7c7c7;
   position: relative;
   border-radius: 6px;
 }
@@ -324,10 +340,10 @@ h1, h2, h3, h4 {
 
   .tl-container::before {
   left: 60px;
-  border-color: transparent #3e3e3e;
+  border-color: transparent #c7c7c7;
   border: medium solid ;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #3e3e3e;
+  border-color: transparent #c7c7c7;
 
   }
 
