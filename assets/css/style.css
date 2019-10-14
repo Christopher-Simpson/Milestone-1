@@ -107,7 +107,7 @@ h1, h2, h3, h4 {
 }
 
 .player-padding {
-    padding-bottom: 10vh;
+    padding-bottom: 5vh;
 }
 .mini-landing {
     height: 30vh;
@@ -225,6 +225,13 @@ h1, h2, h3, h4 {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background-color: #f9ba32e6;
+}
+
 
 /*-----------------------------------------------------------------------Footer----------------------*/
 .footer {
