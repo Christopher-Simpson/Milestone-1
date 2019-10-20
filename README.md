@@ -364,7 +364,8 @@ features from the bootstrap website such as buttons, navbar, dropdown togglers e
 
 
 6.	<----------------------------------------------------------------Testing-------------------------------------------------------------------->
-
+W3c CSS validation:
+Reternued 31 Parse errors and 1497 warnings in regards to bootstrap cdn. Not sure on what I should do about that.
 W3c Validtor:
 
 Used this resource to see if my project validates.
