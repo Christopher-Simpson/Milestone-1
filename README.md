@@ -142,17 +142,25 @@ went on. Here is a list of user stories created to inform the design process:
 Wireframes for client:
 These frames were used to diplay to client how the site could potentially look.
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Desktop%20Contact.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Desktop%20View.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Mobile%20Contact%20Wireframe.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Mobile%20Wireframe.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Site%20Map.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Tablet%20Contact%20Us.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-client/PEMAB%20Tablet%20View.pdf
 
 Wireframes for Dev:
 These frames I made for myself to help inspire me to get the development proccess started.
 file:///workspace/Milestone-1/assets/project-files/wireframes-dev/Tablet%20View%20Dev.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-dev/Mobile%20View%20Dev.pdf
+
 file:///workspace/Milestone-1/assets/project-files/wireframes-dev/Desktop%20View%20Dev.pdf
 
 UX design as seen through the 5 planes created by Jesse James Garrett
